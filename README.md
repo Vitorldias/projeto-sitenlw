@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https://vitorldias.github.io/Desafio-nlw/)
+[🔗 Clique aqui para acessar](https://vitorldias.github.io/projeto-sitenlw/)
 
 ## 🛠️ Tecnologias
  - HTML
